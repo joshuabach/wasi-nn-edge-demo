@@ -1,0 +1,57 @@
+{
+  "Input1": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-12-03T15:35:18.372Z",
+    "value": 43.0981827
+  },
+  "Input2": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-12-03T15:35:18.372Z",
+    "value": 55.6000061
+  },
+  "Input3": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-12-03T15:35:18.372Z",
+    "value": -0.1
+  },
+  "Input4": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-08-07T09:01:33.1727946Z",
+    "value": 0
+  },
+  "Input5": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-08-07T09:01:33.1728221Z",
+    "value": 0
+  },
+  "Input6": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-08-07T09:01:33.172816Z",
+    "value": 0
+  },
+  "Input7": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-08-07T09:01:33.1728341Z",
+    "value": 0
+  },
+  "Input8": {
+    "dataType": "Number",
+    "quality": 1024,
+    "timestamp": "2024-08-07T09:01:33.1728281Z",
+    "value": 0
+  },
+  "objectId": {
+    "dataType": "String",
+    "quality": 0,
+    "timestamp": "2024-08-07T09:01:23.322Z",
+    "value": "markerValue"
+  },
+  "previousAlarms": {}
+}
